@@ -1,2 +1,2 @@
 # Checking-Scala
-labs on scala 🎯
+Labs on scala 🎯
