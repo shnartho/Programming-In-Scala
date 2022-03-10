@@ -1,2 +1,2 @@
 # Checking-Scala
-practice
+practice checking
