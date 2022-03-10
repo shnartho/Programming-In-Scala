@@ -1,3 +1,3 @@
 # Checking-Scala
-scala practice labs
+#scala practice labs
 
