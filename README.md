@@ -1,4 +1,4 @@
-# Checking-Scala
-#scala #akka
-#scala practice labs
+# Functional Programming
+<h3>#scala #akka</h3>
+
 
